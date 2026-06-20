@@ -98,28 +98,34 @@ Built using a Random Forest Classifier trained on the IBM HR Analytics dataset w
 <table>
 <tr>
 <td width="50%">
+    
 ### 🚀 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java" />
 </p>
+
 ### 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite" />
 </p>
+
 ### ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 </td>
 <td width="50%">
+    
 ### 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
 </p>
+
 ### ☁️ Cloud & DevOps
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,nginx,cloudflare" />
 </p>
+
 ### 🛠️ Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
