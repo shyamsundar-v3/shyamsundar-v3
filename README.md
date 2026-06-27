@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/github/followers/shyamsundar-v3.svg?style=social&label=Follow&color=00bcd4">
 </div>
 
+
 <h1 align="center">Hi 👋, I'm Shyam Sundar</h1>
 
 ---
@@ -14,15 +15,41 @@
 - 📚 Solving Data Structures & Algorithms problems 
 - 🤖 Exploring AI & Machine Learning
 - 🌱 Continuously learning new technologies
-- 
+
 ---
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
+    
+### 💬 [ChatSphere](https://github.com/shyamsundar-v3/Chat-sphere)
 
-### 🏨 [Residential Hostel Management System](https://github.com/shyamsundar-v3/residential-hostel-management)
+> A full-stack real-time social platform with messaging, posts, and live presence tracking.
+
+Built with the MERN stack and Socket.IO for sub-50ms bidirectional messaging. Features a social feed with posts, likes, comments, follow/unfollow, and real-time online status — all wrapped in a responsive Chakra UI interface.
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+
+**Highlights:**
+- ⚡ Real-time messaging with Socket.IO  **(sub-50ms latency)**
+- 👥 Social feed with posts, likes, comments & follow system
+- 🔐 JWT authentication with HTTP-only cookie security
+- ☁️ Cloudinary CDN for optimized image delivery
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://chat-sphere-ux34.onrender.com)
+[![Source Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shyamsundar-v3/Chat-sphere)
+
+</td>
+<td width="50%">
+    
+ ### 🏨 [Residential Hostel Management System](https://github.com/shyamsundar-v3/residential-hostel-management)
 
 > A full-stack MERN application to simplify hostel administration for institutions.
 
@@ -44,29 +71,6 @@ Built for administrators to manage students, track attendance, and maintain host
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://hostel-management-1-xwlr.onrender.com)
 [![Source Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shyamsundar-v3/residential-hostel-management)
 
-</td>
-<td width="50%">
-
-### 🤖 [HR Attrition Prediction](https://github.com/shyamsundar-v3/hr-attrition-prediction)
-
-> An ML-powered web app that predicts whether an employee is likely to leave a company.
-
-Built using a Random Forest Classifier trained on the IBM HR Analytics dataset with GridSearchCV for hyperparameter tuning. Features an interactive Streamlit UI for HR professionals to input employee details and get real-time predictions.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Highlights:**
-- 🎯 Random Forest + GridSearchCV for optimal accuracy
-- 📋 IBM HR Analytics dataset (age, income, job satisfaction, etc.)
-- 🖥️ Clean interactive UI built with Streamlit
-- ☁️ Deployed on Streamlit Cloud
-
-[![Source Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shyamsundar-v3/hr-attrition-prediction)
 
 </td>
 </tr>
@@ -91,7 +95,6 @@ Built using a Random Forest Classifier trained on the IBM HR Analytics dataset w
 </a>
 </p>
 
-
 ---
 
 # 💻 Tech Stack
@@ -101,7 +104,7 @@ Built using a Random Forest Classifier trained on the IBM HR Analytics dataset w
     
 ### 🚀 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
 ### 🎨 Frontend
@@ -118,7 +121,7 @@ Built using a Random Forest Classifier trained on the IBM HR Analytics dataset w
     
 ### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -134,17 +137,7 @@ Built using a Random Forest Classifier trained on the IBM HR Analytics dataset w
 </tr>
 </table>
 
----
 
-## 🤖 Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
 
 ---
 
@@ -152,13 +145,9 @@ Built using a Random Forest Classifier trained on the IBM HR Analytics dataset w
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shyamsundar-v3&show_icons=true&theme=tokyonight" />
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamsundar-v3&theme=tokyonight" />
 </p>
 
-
-
-
 ---
 
-⭐ From [Shyam Sundar](https://github.com/shyamsundar-v3)   
+⭐ From [Shyam Sundar](https://github.com/shyamsundar-v3)
